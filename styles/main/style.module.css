@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    background-image: linear-gradient(to right, #8f94fb, #8e91ca);;
+}
+
+.space_vertical {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem; /* Adjust the value as needed */
+  }
+  
+
+.main_text{
+    font-size: 44px;
+    font-weight: 600;
+    color: white;
+    box-shadow: 1px 4px 15px -22px rgba(0,0,0,0.67);
+}
+
+.paragraph_text{
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+.font_poppins {
+    /* Define font styles here */
+    font-family: 'Poppins', sans-serif;
+}
