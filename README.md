@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Next.js Authentication with Google and GitHub
 
 This project is a web application built with Next.js, Tailwind CSS, and TypeScript. It includes user authentication using Google and GitHub through `next-auth`, and uses Prisma for database management. The project aims to provide a customizable and scalable foundation for building content management systems with modern web technologies.
@@ -239,5 +238,4 @@ Built-in feature from Next.js:
 
 
 =======
-# auth-nextjs
->>>>>>> eb3446b959c5c87849e3470f5dfb2a1b75ad87e7
+
